@@ -47,7 +47,7 @@ jobs:
           echo "" >> README.md
           echo "---" >> README.md
           echo "" >> README.md
-          echo "This repository is automatically updated every hour using GitHub Actions." >> README.md
+          echo "This repository is automatically updated every 2 hour using GitHub Actions." >> README.md
 
       # Commit and push changes
       - name: Commit and push changes
